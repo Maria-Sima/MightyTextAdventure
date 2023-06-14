@@ -28,7 +28,7 @@ The project utilizes the following technologies:
 5. Along your journey, you will encounter puzzles and challenges that you must solve to proceed. Pay close attention to the clues and hints provided in the game to overcome these obstacles.
 
 6. Make choices wisely as they will determine your fate and the outcome of the game. Will you successfully escape the burning house and save the day?
-   [Example Image](https://i.imgur.com/SPN4wWD.png)
+   ![Example Image](https://i.imgur.com/SPN4wWD.png)
 
 ## Game Features
 

@@ -13,7 +13,7 @@ Welcome to **Mighty Text Adventure**, a text-based choose your own adventure gam
 The project utilizes the following technologies:
 
 - **C#**
-- ![Example Image](https://i.imgur.com/XoGPwaG.png)
+- ![Example Image](https://i.imgur.com/e1LLyrq.png)
 
 ## How to Play
 
